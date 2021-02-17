@@ -7,5 +7,7 @@ namespace MoneyTracker
     class Person
     {
         private int age;
+
+        public int Size { get; set; }
     }
 }
