@@ -7,7 +7,7 @@ namespace MoneyTracker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("sa - as");
         }
     }
 }
