@@ -6,6 +6,6 @@ namespace MoneyTracker
 {
     class Person
     {
-
+        private int age;
     }
 }
